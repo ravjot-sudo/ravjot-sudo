@@ -5,11 +5,71 @@
   <img src="https://raw.githubusercontent.com/ravjot-sudo/ravjot-sudo/main/profile_header.svg" alt="Animated Executive Header" width="100%" />
 
   <p align="center">
-    <strong>System Architect &amp; Engineering Leader Crafting Elegant Solutions</strong>
+    <strong>Full-Stack Engineer &nbsp;·&nbsp; Real-Time Graphics &nbsp;·&nbsp; Agentic AI Systems</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=0D1117" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript_&_React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF&labelColor=0D1117" alt="TypeScript and React" />
+    <img src="https://img.shields.io/badge/TouchDesigner-0D1117?style=for-the-badge&logo=touchdesigner&logoColor=58A6FF&labelColor=0D1117" alt="TouchDesigner" />
+    <img src="https://img.shields.io/badge/Claude_&_Anthropic_SDK-0D1117?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=0D1117" alt="Claude and Anthropic SDK" />
   </p>
 
   <p align="center">
     <a href="mailto:asingh3433@gmail.com"><img src="https://img.shields.io/badge/Contact_Executive-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
   </p>
 
+</div>
+
+---
+
+### <img src="https://img.shields.io/badge/-0D1117?style=flat-square&logoColor=58A6FF" height="1" width="0" /> Profile
+
+Full-stack engineer working where **product engineering meets real-time systems**. I build
+interfaces people touch, pipelines that render at frame rate, and agents that do real work —
+from React front ends to TouchDesigner signal chains to Claude-powered tooling.
+
+- **Building** — agentic developer tooling and real-time visual systems
+- **Shipping** — production React / TypeScript products end to end
+- **Exploring** — MCP servers, Claude Code skills, GPU-side creative pipelines
+
+---
+
+### Featured Work
+
+| Project | Focus | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[claude-247-agent](https://github.com/ravjot-sudo/claude-247-agent)** | Self-resuming cloud agent — hourly cron, zero-memory sessions, state committed back to the repo | Claude Code · Cron | Active |
+| **[Claude-All](https://github.com/ravjot-sudo/Claude-All)** | ~1,580 curated Claude Code skills that turn one agent into a full team | Claude Skills | Active |
+| **[investing-fear-app](https://github.com/ravjot-sudo/investing-fear-app)** | Risk simulation, AI portfolio explaining, and loss-probability metering for first-time investors | Next.js · TypeScript · Drizzle | Shipped |
+| **[azure-yacht](https://github.com/ravjot-sudo/azure-yacht)** | Luxury yacht charter site with a cinematic 3D scroll experience | HTML · WebGL · Motion | Shipped |
+
+---
+
+### Engineering Focus
+
+| Domain | What I work with |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript · Go |
+| **Front End** | React · Next.js · Tailwind · SVG / Canvas |
+| **Real-Time** | TouchDesigner · GLSL · MediaPipe · GPU pipelines |
+| **AI Systems** | Claude / Anthropic SDK · MCP servers · Claude Code skills · agent orchestration |
+
+---
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ravjot-sudo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravjot-sudo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" height="165" />
+
+  <br /><br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravjot-sudo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub><code>0d1117</code> &nbsp;·&nbsp; built in the dark</sub>
 </div>
