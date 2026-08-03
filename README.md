@@ -11,7 +11,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=0D1117" alt="Python" />
     <img src="https://img.shields.io/badge/TypeScript_&_React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF&labelColor=0D1117" alt="TypeScript and React" />
-    <img src="https://img.shields.io/badge/TouchDesigner-0D1117?style=for-the-badge&logo=touchdesigner&logoColor=58A6FF&labelColor=0D1117" alt="TouchDesigner" />
+    <img src="https://img.shields.io/badge/TouchDesigner-0D1117?style=for-the-badge&logo=nvidia&logoColor=58A6FF&labelColor=0D1117" alt="TouchDesigner" />
     <img src="https://img.shields.io/badge/Claude_&_Anthropic_SDK-0D1117?style=for-the-badge&logo=anthropic&logoColor=58A6FF&labelColor=0D1117" alt="Claude and Anthropic SDK" />
   </p>
 
@@ -59,12 +59,11 @@ from React front ends to TouchDesigner signal chains to Claude-powered tooling.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ravjot-sudo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravjot-sudo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=ravjot-sudo&hide_border=true&background=0D1117&stroke=1F2A37&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Contribution Streak" height="170" />
 
   <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravjot-sudo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravjot-sudo&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" width="100%" />
 
 </div>
 
